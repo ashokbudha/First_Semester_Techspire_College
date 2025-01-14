@@ -1,0 +1,151 @@
+Simple Projects
+Basic Calculator
+
+Description: Create a command-line calculator that performs basic operations: addition, subtraction, multiplication, and division.
+Features:
+Take two numbers as input.
+Allow the user to choose an operation.
+Use loops to repeat the process until the user quits.
+Concepts: Data types, operators, functions, and loops.
+Word Counter
+
+Description: Analyze a string and count the occurrences of each word.
+Features:
+Input a sentence or paragraph.
+Process the string using split() and a dictionary to count words.
+Add options for case sensitivity and ignoring punctuation.
+Concepts: Strings, dictionaries, loops.
+To-Do List App
+
+Description: Manage a simple list of tasks.
+Features:
+Add, view, and delete tasks.
+Save tasks in a list and display them to the user.
+Concepts: Lists, loops, conditions.
+Number Guessing Game
+
+Description: The program generates a random number, and the user has to guess it.
+Features:
+Provide hints like "higher" or "lower."
+Track the number of attempts.
+Use random.randint() to generate the number.
+Concepts: Loops, conditions, random module.
+Palindrome Checker
+
+Description: Check whether a string or number reads the same forward and backward.
+Features:
+Input strings or numbers.
+Use slicing ([::-1]) or loops to check.
+Concepts: Strings, conditions, functions.
+Intermediate Projects
+Contact Book
+
+Description: Create a program to store and manage contacts.
+Features:
+Use a dictionary with names as keys and phone numbers as values.
+Add, search, update, and delete contacts.
+Concepts: Dictionaries, functions, loops.
+Unit Converter
+
+Description: Convert values between different units, such as meters to kilometers or Celsius to Fahrenheit.
+Features:
+Use functions for conversions.
+Implement a menu for selecting unit types.
+Concepts: Functions, loops, conditions.
+Simple Library System
+
+Description: Simulate a library where users can borrow and return books.
+Features:
+Use a dictionary to store book titles and their availability.
+Manage a queue for books on hold.
+Concepts: Dictionaries, lists, loops.
+Expense Tracker
+
+Description: Track daily expenses and calculate totals.
+Features:
+Input expense categories and amounts.
+Store data in a dictionary.
+Generate a summary report.
+Concepts: Dictionaries, loops, functions.
+Rock, Paper, Scissors Game
+
+Description: Play against the computer using random choices.
+Features:
+Use random.choice() for the computer’s move.
+Track and display scores.
+Concepts: Loops, conditions, random module.
+Advanced Projects
+Quiz Application
+
+Description: Create a quiz game with multiple-choice questions.
+Features:
+Use a list of dictionaries for questions, options, and answers.
+Keep track of the user’s score.
+Provide feedback for each answer.
+Concepts: Lists, dictionaries, functions.
+Student Gradebook
+
+Description: Manage student records and calculate grades.
+Features:
+Use classes to represent students.
+Add methods to calculate averages and assign grades.
+Store records in a list of objects.
+Concepts: Classes, methods, lists.
+Inventory Management System
+
+Description: Manage items in an inventory.
+Features:
+Use classes for items with properties like name, quantity, and price.
+Add methods to add/remove items and display inventory.
+Concepts: Classes, methods, lists, dictionaries.
+Banking System
+
+Description: Simulate a bank account system.
+Features:
+Create an Account class with deposit, withdraw, and balance methods.
+Add static methods for bank-wide operations like calculating interest.
+Concepts: Classes, static methods, conditions.
+Weather Report Simulator
+
+Description: Generate random weather data and display reports.
+Features:
+Use a dictionary to store weather conditions.
+Implement functions to generate and format reports.
+Use decorators for logging or error handling.
+Concepts: Dictionaries, decorators, random module.
+Capstone-Level Projects
+Personal Budget Manager
+
+Description: Manage income and expenses to track finances.
+Features:
+Input income and expense categories.
+Generate reports for total savings or monthly summaries.
+Concepts: Classes, dictionaries, loops.
+Mini Social Network
+
+Description: Create a system for users to connect and share posts.
+Features:
+Use classes for User and Post.
+Implement methods for adding friends, creating posts, and viewing feeds.
+Concepts: Classes, methods, lists.
+Task Scheduler
+
+Description: Schedule tasks and set reminders.
+Features:
+Use a class for tasks with properties like name, deadline, and priority.
+Sort tasks by priority or date.
+Concepts: Classes, lists, decorators.
+E-commerce Simulation
+
+Description: Simulate an online shopping experience.
+Features:
+Use classes for products, shopping carts, and orders.
+Add static methods for discounts or taxes.
+Concepts: Classes, static methods, dictionaries.
+Basic Game (e.g., Tic-Tac-Toe)
+
+Description: Create a simple board game for two players.
+Features:
+Use a list to represent the board.
+Implement game rules, win conditions, and a replay option.
+Concepts: Lists, loops, conditions, functions.
